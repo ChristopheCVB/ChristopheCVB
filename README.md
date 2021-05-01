@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **christophe.carvalhovilasboas@gmail.com**
 
+- 🙋For help about Touch Portal Plugins, head over [Touch Portal's Discord](https://discord.gg/MgxQb8r)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/christophecvb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="christophecvb" height="30" width="40" /></a>

@@ -89,8 +89,8 @@
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=christophecvb&show_icons=true&locale=en&layout=compact" alt="languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=christophecvb&show_icons=true&locale=en&layout=compact&theme=dark" alt="languages" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=christophecvb&show_icons=true&locale=en" alt="Github Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=christophecvb&show_icons=true&locale=en&theme=dark" alt="Github Stats" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=christophecvb&" alt="Streak Stats" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=christophecvb&theme=dark" alt="Streak Stats" /></p>

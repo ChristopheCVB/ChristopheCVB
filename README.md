@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A passionate Full Stack Lead Developer</h3>
+<h3 align="center">A passionate Full Stack Engineering Manager, Tech Lead and Lead Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=christophecvb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently working for [VO2 Group](https://www.vo2-group.com/)
 
-- 👯 I'm looking to collaborate on [Strapi Plugin Soft Delete](https://github.com/ChristopheCVB/strapi-plugin-soft-delete/)
+<!--- 👯 I'm looking to collaborate on [Strapi Plugin Soft Delete](https://github.com/ChristopheCVB/strapi-plugin-soft-delete/)-->
 
 - 🙋For help about Touch Portal Plugins, head over [Touch Portal's Discord](https://discord.gg/MgxQb8r)
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/christophecvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <!--<a href="https://twitter.com/christophecvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>-->
   <a href="https://linkedin.com/in/christophecarvalhovilasboas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/843114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
   <a href="https://medium.com/@christophecvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
@@ -32,6 +32,7 @@
 <h3 align="left">Languages, Tools and Frameworks:</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://bun.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bun/bun-original.svg" alt="bun" width="40" height="40"/></a>
   <!-- Front Vue -->
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
   <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/></a>
@@ -40,12 +41,16 @@
   <a href="https://nextjs.org" target="_blank"><img src="https://bestofjs.org/logos/nextjs.svg" alt="nextjs" width="40" height="40"/></a>
   <!-- Front Utilities -->
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <!-- Fullstack Utilities -->
+  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
+  <a href="https://better-auth.com" target="_blank"><img src="https://better-auth.com/branding/svg/better-auth-mark-light.svg" alt="better-auth" width="40" height="40"/></a>
   <!-- Back -->
   <a href="https://nestjs.com/" target="_blank"><img src="https://bestofjs.org/logos/nest.svg" alt="nest" width="40" height="40"/></a>
   <a href="https://strapi.io/" target="_blank"><img src="https://bestofjs.org/logos/strapi.dark.svg" alt="strapi" width="40" height="40"/></a>
   <!-- Front Basics -->
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://www.a11yproject.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/3269340" alt="a11y" width="40" height="40"/></a>
   <!-- Cloud -->
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
@@ -57,7 +62,6 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
   <!-- Mobile -->
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <!-- CI/CD -->
